@@ -1,0 +1,14 @@
+C:\Users\Shirisha Mangali\Desktop\cognine\c-sharp\GreatestProductFinder\bin\Debug\net8.0\GreatestProductFinder.exe
+C:\Users\Shirisha Mangali\Desktop\cognine\c-sharp\GreatestProductFinder\bin\Debug\net8.0\GreatestProductFinder.deps.json
+C:\Users\Shirisha Mangali\Desktop\cognine\c-sharp\GreatestProductFinder\bin\Debug\net8.0\GreatestProductFinder.runtimeconfig.json
+C:\Users\Shirisha Mangali\Desktop\cognine\c-sharp\GreatestProductFinder\bin\Debug\net8.0\GreatestProductFinder.dll
+C:\Users\Shirisha Mangali\Desktop\cognine\c-sharp\GreatestProductFinder\bin\Debug\net8.0\GreatestProductFinder.pdb
+C:\Users\Shirisha Mangali\Desktop\cognine\c-sharp\GreatestProductFinder\obj\Debug\net8.0\GreatestProductFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shirisha Mangali\Desktop\cognine\c-sharp\GreatestProductFinder\obj\Debug\net8.0\GreatestProductFinder.AssemblyInfoInputs.cache
+C:\Users\Shirisha Mangali\Desktop\cognine\c-sharp\GreatestProductFinder\obj\Debug\net8.0\GreatestProductFinder.AssemblyInfo.cs
+C:\Users\Shirisha Mangali\Desktop\cognine\c-sharp\GreatestProductFinder\obj\Debug\net8.0\GreatestProductFinder.csproj.CoreCompileInputs.cache
+C:\Users\Shirisha Mangali\Desktop\cognine\c-sharp\GreatestProductFinder\obj\Debug\net8.0\GreatestProductFinder.dll
+C:\Users\Shirisha Mangali\Desktop\cognine\c-sharp\GreatestProductFinder\obj\Debug\net8.0\refint\GreatestProductFinder.dll
+C:\Users\Shirisha Mangali\Desktop\cognine\c-sharp\GreatestProductFinder\obj\Debug\net8.0\GreatestProductFinder.pdb
+C:\Users\Shirisha Mangali\Desktop\cognine\c-sharp\GreatestProductFinder\obj\Debug\net8.0\GreatestProductFinder.genruntimeconfig.cache
+C:\Users\Shirisha Mangali\Desktop\cognine\c-sharp\GreatestProductFinder\obj\Debug\net8.0\ref\GreatestProductFinder.dll

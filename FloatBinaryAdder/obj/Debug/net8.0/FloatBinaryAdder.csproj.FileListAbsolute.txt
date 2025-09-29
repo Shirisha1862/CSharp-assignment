@@ -1,0 +1,14 @@
+C:\Users\Shirisha Mangali\Desktop\cognine\c-sharp\FloatBinaryAdder\bin\Debug\net8.0\FloatBinaryAdder.exe
+C:\Users\Shirisha Mangali\Desktop\cognine\c-sharp\FloatBinaryAdder\bin\Debug\net8.0\FloatBinaryAdder.deps.json
+C:\Users\Shirisha Mangali\Desktop\cognine\c-sharp\FloatBinaryAdder\bin\Debug\net8.0\FloatBinaryAdder.runtimeconfig.json
+C:\Users\Shirisha Mangali\Desktop\cognine\c-sharp\FloatBinaryAdder\bin\Debug\net8.0\FloatBinaryAdder.dll
+C:\Users\Shirisha Mangali\Desktop\cognine\c-sharp\FloatBinaryAdder\bin\Debug\net8.0\FloatBinaryAdder.pdb
+C:\Users\Shirisha Mangali\Desktop\cognine\c-sharp\FloatBinaryAdder\obj\Debug\net8.0\FloatBinaryAdder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shirisha Mangali\Desktop\cognine\c-sharp\FloatBinaryAdder\obj\Debug\net8.0\FloatBinaryAdder.AssemblyInfoInputs.cache
+C:\Users\Shirisha Mangali\Desktop\cognine\c-sharp\FloatBinaryAdder\obj\Debug\net8.0\FloatBinaryAdder.AssemblyInfo.cs
+C:\Users\Shirisha Mangali\Desktop\cognine\c-sharp\FloatBinaryAdder\obj\Debug\net8.0\FloatBinaryAdder.csproj.CoreCompileInputs.cache
+C:\Users\Shirisha Mangali\Desktop\cognine\c-sharp\FloatBinaryAdder\obj\Debug\net8.0\FloatBinaryAdder.dll
+C:\Users\Shirisha Mangali\Desktop\cognine\c-sharp\FloatBinaryAdder\obj\Debug\net8.0\refint\FloatBinaryAdder.dll
+C:\Users\Shirisha Mangali\Desktop\cognine\c-sharp\FloatBinaryAdder\obj\Debug\net8.0\FloatBinaryAdder.pdb
+C:\Users\Shirisha Mangali\Desktop\cognine\c-sharp\FloatBinaryAdder\obj\Debug\net8.0\FloatBinaryAdder.genruntimeconfig.cache
+C:\Users\Shirisha Mangali\Desktop\cognine\c-sharp\FloatBinaryAdder\obj\Debug\net8.0\ref\FloatBinaryAdder.dll

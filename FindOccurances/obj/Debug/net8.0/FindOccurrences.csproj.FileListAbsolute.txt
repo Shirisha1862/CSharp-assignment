@@ -1,0 +1,14 @@
+C:\Users\Shirisha Mangali\Desktop\cognine\c-sharp\FindOccurances\bin\Debug\net8.0\FindOccurrences.exe
+C:\Users\Shirisha Mangali\Desktop\cognine\c-sharp\FindOccurances\bin\Debug\net8.0\FindOccurrences.deps.json
+C:\Users\Shirisha Mangali\Desktop\cognine\c-sharp\FindOccurances\bin\Debug\net8.0\FindOccurrences.runtimeconfig.json
+C:\Users\Shirisha Mangali\Desktop\cognine\c-sharp\FindOccurances\bin\Debug\net8.0\FindOccurrences.dll
+C:\Users\Shirisha Mangali\Desktop\cognine\c-sharp\FindOccurances\bin\Debug\net8.0\FindOccurrences.pdb
+C:\Users\Shirisha Mangali\Desktop\cognine\c-sharp\FindOccurances\obj\Debug\net8.0\FindOccurrences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shirisha Mangali\Desktop\cognine\c-sharp\FindOccurances\obj\Debug\net8.0\FindOccurrences.AssemblyInfoInputs.cache
+C:\Users\Shirisha Mangali\Desktop\cognine\c-sharp\FindOccurances\obj\Debug\net8.0\FindOccurrences.AssemblyInfo.cs
+C:\Users\Shirisha Mangali\Desktop\cognine\c-sharp\FindOccurances\obj\Debug\net8.0\FindOccurrences.csproj.CoreCompileInputs.cache
+C:\Users\Shirisha Mangali\Desktop\cognine\c-sharp\FindOccurances\obj\Debug\net8.0\FindOccurrences.dll
+C:\Users\Shirisha Mangali\Desktop\cognine\c-sharp\FindOccurances\obj\Debug\net8.0\refint\FindOccurrences.dll
+C:\Users\Shirisha Mangali\Desktop\cognine\c-sharp\FindOccurances\obj\Debug\net8.0\FindOccurrences.pdb
+C:\Users\Shirisha Mangali\Desktop\cognine\c-sharp\FindOccurances\obj\Debug\net8.0\FindOccurrences.genruntimeconfig.cache
+C:\Users\Shirisha Mangali\Desktop\cognine\c-sharp\FindOccurances\obj\Debug\net8.0\ref\FindOccurrences.dll
